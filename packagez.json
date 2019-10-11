@@ -1,0 +1,24 @@
+{
+  "name": "react-form-mobx-form2",
+  "version": "1.0.0",
+  "description": "https://github.com/cantonjs/react-form-mobx",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "mobx": "latest",
+    "mobx-react": "latest",
+    "mobx-react-form": "2.0.6",
+    "prop-types": "latest",
+    "react": "16.10.0",
+    "react-dom": "16.10.0",
+    "react-github-corner": "2.3.0",
+    "react-scripts": "3.1.2",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
